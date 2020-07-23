@@ -1,5 +1,5 @@
-# emby-
-VPS搭建EMBY和挂载Google Drive Part1
+# emby
+#VPS搭建EMBY和挂载Google Drive Part1
 1，安装emby
 
 wget https://github.com/MediaBrowser/Emby.Releases/releases/download/4.4.2.0/emby-server-deb_4.4.2.0_amd64.deb
@@ -12,7 +12,7 @@ xxx.xxx.xxx.xxx:8096
 
 iptables -F
 
-VPS搭建EMBY和挂载Google Drive Part2
+#VPS搭建EMBY和挂载Google Drive Part2
 
 1、安装rclone
 
@@ -161,14 +161,14 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 wget https://www.moerats.com/usr/shell/swap.sh && bash swap.sh
 
 
-报错解决
+#报错解决
 挂载报错：2020/05/20 14:53:12 Fatal error: failed to mount FUSE fs: fusermount: exec: "fusermount": executable file not found in $PATH
 解决办法：apt-get install fuse -y
 
 解压报错
 apt update && apt install curl unzip -y
 
-VPS搭建EMBY和挂载Google Drive Part3 挂载第二个盘 
+#VPS搭建EMBY和挂载Google Drive Part3 挂载第二个盘 
 
 1、配置
 
