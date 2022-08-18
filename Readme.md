@@ -10,7 +10,7 @@ Sci-Surf 云盘影视库
 ## 须知
 
 - 请合理使用。
-- 由<img src="https://telegram.org/img/favicon.ico" width="1.5%">[**SciSurf | 科学冲浪**](https://t.me/scisurf)资源整理。
+- <img src="https://telegram.org/img/favicon.ico" width="1.6%">[**SciSurf | 科学冲浪**](https://t.me/scisurf)资源整理。
 - 服务仅供娱乐、观影、学习用途。
 
 ## 🎦推荐调用外部播放器
