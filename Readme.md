@@ -18,8 +18,6 @@ Sci-Surf 云端影视库
 ---
 
 
-[📽播放器推荐]
-
 [Windows推荐-potplayer](https://daumpotplayer.com/download/)
 
 [MacOS推荐-IINA](https://iina.io/)
