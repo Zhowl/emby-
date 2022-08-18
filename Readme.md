@@ -10,7 +10,7 @@ Sci-Surf 云端影视库
 ## 须知
 
 - 请合理使用。
-- 由[**SciSurf | 科学冲浪**](https://t.me/scisurf)资源整理
+- 由[**SciSurf | 科学冲浪**](https://t.me/scisurf)资源整理。
 - 服务仅供娱乐、观影、学习用途。
 
 ## 🎦推荐调用外部播放器
