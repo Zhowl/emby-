@@ -22,7 +22,7 @@ Sci-Surf 云盘影视库
 [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
 [Softonic下载APK](https://gsf-fl.softonic.com/992/e17/2210bfb90c352ba867f2b4feac73dbb912/VLC_for_Android_v3.4.3_.apk?Expires=1662389003&Signature=deba35d39323f7a7190e609c0c847089d8110902&url=https://vlc-media-player.en.softonic.com/android&Filename=VLC_for_Android_v3.4.3_.apk)
 
-- Win推荐<br> <img src="https://github.com/Zhowl/emby-/raw/master/potplayer.ico" width="1.6%">potplayer 
+- Win推荐<br> <img src="https://www.megaleechers.com/storage/PotPlayer-Icon.png" width="1.6%">potplayer 
 [官网下载](https://daumpotplayer.com/download/)
 
 - Mac推荐<br> <img src="https://iina.io/images/iina-icon-60.png" width="1.6%">IINA 
