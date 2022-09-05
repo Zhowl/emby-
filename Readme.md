@@ -8,7 +8,7 @@ Sci-Surf 云盘影视库
 -----------------
 
 ## 须知
-
+Web端仅供浏览，播放如遇到无法播放，无声音，无字幕，请调用外部播放器。
 - 请合理使用。
 - <img src="https://telegram.org/img/favicon.ico" width="1.6%">[**SciSurf | 科学冲浪**](https://t.me/scisurf)资源整理。
 - 服务仅供娱乐、观影、学习用途。
@@ -17,9 +17,18 @@ Sci-Surf 云盘影视库
 
 ---
 
+- iOS推荐 <img src="https://images.videolan.org/images/favicon.ico" width="1.6%">VLC 
+[App Store](https://apps.apple.com/cn/app/vlc-media-player/id650377962)
 
-[Windows推荐-potplayer](https://daumpotplayer.com/download/)
+- 安卓推荐 <img src="https://images.videolan.org/images/favicon.ico" width="1.6%">VLC 
+[Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc) 
+[Softonic下载APK](https://gsf-fl.softonic.com/992/e17/2210bfb90c352ba867f2b4feac73dbb912/VLC_for_Android_v3.4.3_.apk?Expires=1662389003&Signature=deba35d39323f7a7190e609c0c847089d8110902&url=https://vlc-media-player.en.softonic.com/android&Filename=VLC_for_Android_v3.4.3_.apk)
 
-[MacOS推荐-IINA](https://iina.io/)
+- Win推荐 <img src="http://www.potplayercn.com/wp-content/uploads/2022/06/favicon.ico" width="1.6%">potplayer 
+[官网下载](https://daumpotplayer.com/download/)
+
+- Mac推荐 <img src="https://iina.io/images/iina-icon-60.png" width="1.6%">IINA 
+[官网下载](https://iina.io/)
+
 
 ---
