@@ -15,8 +15,6 @@ Sci-Surf 云盘影视库
 
 ## 🎦推荐调用外部播放器
 
----
-
 - iOS推荐<br> <img src="https://images.videolan.org/images/favicon.ico" width="1.6%">VLC 
 [App Store](https://apps.apple.com/cn/app/vlc-media-player/id650377962)
 
@@ -29,6 +27,3 @@ Sci-Surf 云盘影视库
 
 - Mac推荐<br> <img src="https://iina.io/images/iina-icon-60.png" width="1.6%">IINA 
 [官网下载](https://iina.io/)
-
-
----
